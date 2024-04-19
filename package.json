@@ -151,7 +151,7 @@
     "@material-ui/lab": "^4.0.0-alpha.58",
     "@slack/web-api": "^6.2.3",
     "@types/ws": "^7.4.7",
-    "axios": "^0.21.1",
+    "axios": "^0.28.1",
     "date-fns": "^2.21.3",
     "file-it": "^1.1.2",
     "moment-timezone": "^0.5.33",
